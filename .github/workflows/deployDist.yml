@@ -16,7 +16,7 @@ jobs:
         run: node -v
 
       - name: Install Dependencies
-        uses: npm ci
+        run: npm ci
 
       - name: Run Test
-        uses: npm run test
+        run: npm run test
