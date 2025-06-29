@@ -20,7 +20,7 @@ A simple React project integrated with GitHub Actions for a complete CI/CD pipel
 3. Start development server
    ```bash
    npm start
-🧪 Run Tests
+4. Run Tests
     ```bash
     npm test
    
