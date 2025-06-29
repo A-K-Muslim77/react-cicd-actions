@@ -33,6 +33,7 @@ A simple React project integrated with GitHub Actions for a complete CI/CD pipel
 - ✅ Automated testing
 - ✅ Build and artifact upload
 - ✅ Deployment to GitHub Pages
+- ✅ SonarCloud integration for code quality analysis
 
 ---
 
