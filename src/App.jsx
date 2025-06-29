@@ -6,6 +6,7 @@ function App() {
     <>
       <h1>Github Actions</h1>
       <h2>Complete course with 1 project</h2>
+      <h5>Added Sonar Cloud</h5>
     </>
   )
 }
