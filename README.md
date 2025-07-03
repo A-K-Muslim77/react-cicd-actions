@@ -56,6 +56,12 @@ A simple React project integrated with GitHub Actions for a complete CI/CD pipel
 
 GitHub Actions Workflow File: `.github/workflows/deployDist.yml`
 
+---
+![SonarCloud](./src/asset/SonarCloud.jpg)
+
+*Figure: SonarCloud code quality report integration in the CI/CD pipeline.*
+
+
 
 
 
